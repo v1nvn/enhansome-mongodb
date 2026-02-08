@@ -91,7 +91,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-06T21:33:09Z",
+            "last_commit": "2026-02-07T09:31:38Z",
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
             "stars": 1099
@@ -223,7 +223,7 @@
             "last_commit": "2026-02-06T22:43:58Z",
             "owner": "mongodb",
             "repo": "mongo-go-driver",
-            "stars": 8496
+            "stars": 8498
           }
         }
       ],
@@ -443,7 +443,7 @@
             "last_commit": "2026-02-06T14:16:56Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44773
+            "stars": 44771
           }
         },
         {
@@ -466,10 +466,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-07T00:16:53Z",
+            "last_commit": "2026-02-07T23:40:40Z",
             "owner": "Automattic",
             "repo": "mongoose",
-            "stars": 27449
+            "stars": 27451
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2024-06-24T10:22:20Z",
             "owner": "rueckstiess",
             "repo": "mtools",
-            "stars": 1937
+            "stars": 1938
           }
         },
         {
@@ -1123,7 +1123,7 @@
             "last_commit": "2022-01-28T19:28:04Z",
             "owner": "mongodb",
             "repo": "mongo-hadoop",
-            "stars": 1631
+            "stars": 1630
           }
         },
         {
@@ -1228,7 +1228,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T00:46:58Z",
+            "last_commit": "2026-02-08T04:09:51Z",
             "owner": "mongodb-js",
             "repo": "compass",
             "stars": 1433
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-02-06T23:08:15Z",
             "owner": "mongodb-js",
             "repo": "mongodb-mcp-server",
-            "stars": 910
+            "stars": 911
           }
         },
         {
@@ -1532,7 +1532,7 @@
             "last_commit": "2026-02-06T21:07:52Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 39048
+            "stars": 39051
           }
         },
         {
@@ -1542,10 +1542,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T20:14:38Z",
+            "last_commit": "2026-02-07T16:15:07Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 54696
+            "stars": 54708
           }
         },
         {
@@ -1558,7 +1558,7 @@
             "last_commit": "2026-02-06T17:47:54Z",
             "owner": "Budibase",
             "repo": "budibase",
-            "stars": 27623
+            "stars": 27627
           }
         },
         {
@@ -1571,7 +1571,7 @@
             "last_commit": "2026-02-06T14:35:49Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12366
+            "stars": 12368
           }
         },
         {
@@ -1581,10 +1581,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-07T05:23:19Z",
+            "last_commit": "2026-02-07T09:47:56Z",
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 37396
+            "stars": 37400
           }
         }
       ],
@@ -1613,7 +1613,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T04:00:12Z",
+            "last_commit": "2026-02-08T04:03:18Z",
             "owner": "mongodb-js",
             "repo": "mongosh",
             "stars": 380
@@ -1645,10 +1645,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-06T01:47:14Z",
+            "last_commit": "2026-02-07T16:31:25Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5936
+            "stars": 5935
           }
         },
         {
@@ -1732,7 +1732,7 @@
             "last_commit": "2026-02-06T12:18:25Z",
             "owner": "codecombat",
             "repo": "codecombat",
-            "stars": 8425
+            "stars": 8427
           }
         },
         {
@@ -1742,7 +1742,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-06T21:39:15Z",
+            "last_commit": "2026-02-07T17:07:19Z",
             "owner": "countly",
             "repo": "countly-server",
             "stars": 5822
@@ -1755,10 +1755,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-06T19:24:26Z",
+            "last_commit": "2026-02-07T20:09:49Z",
             "owner": "errbit",
             "repo": "errbit",
-            "stars": 4272
+            "stars": 4271
           }
         },
         {
@@ -1797,7 +1797,7 @@
             "last_commit": "2023-11-27T06:36:09Z",
             "owner": "leanote",
             "repo": "leanote",
-            "stars": 11723
+            "stars": 11724
           }
         },
         {
@@ -1807,7 +1807,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-07T05:12:50Z",
+            "last_commit": "2026-02-08T02:47:19Z",
             "owner": "NodeBB",
             "repo": "NodeBB",
             "stars": 14957
@@ -1875,10 +1875,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:13:22.208Z",
+    "last_updated": "2026-02-08T04:34:21.245Z",
     "original_repository": "ramnes/awesome-mongodb",
     "source_repository": "v1nvn/enhansome-mongodb",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome MongoDB with stars"
   }
 }
